@@ -1,0 +1,12 @@
+Main$ProductData.class
+Product.class
+Main.class
+ProductRepository.class
+User.class
+LogEntry.class
+UserRepository.class
+LogService.class
+Main$UserData.class
+ProfileService.class
+MongoDBConnection.class
+UserProfile.class
